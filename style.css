@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300&display=swap');
+
+
+#logo{
+    position: absolute;
+    margin-left: 860px;
+    position: left;
+    
+}
+
+#buttons{
+    background-color: rgb(226, 224, 224);
+    height: 30px;
+    width: 861px;
+}
+
+#btn-about{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 3px;
+    
+}
+
+#btn-downloads{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 3px;
+}
+
+#btn-contact{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 3px;
+}
+
+#btn-contribute{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 3px;
+    border: solid red;
+    background: gold;
+    border-radius: 50px;
+}
+
+#menu{
+
+}
+
+#title-menu{
+    font-family: 'Koulen', cursive;
+}
+
+#about{
+    font-family: 'Radio Canada', sans-serif;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 255, 128, 0.945);
+}
+
+#title-about{
+    
+}
